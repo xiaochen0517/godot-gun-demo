@@ -11,7 +11,8 @@ config_version=5
 [application]
 
 config/name="godot-gun-demo"
-config/features=PackedStringArray("4.4", "Forward Plus")
+run/main_scene="uid://bjlj4j1hn57pp"
+config/features=PackedStringArray("4.4", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
